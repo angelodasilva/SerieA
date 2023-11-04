@@ -1,2 +1,2 @@
 # SerieA
-previsão de resultados da Série A
+Previsão de resultados da Série A
